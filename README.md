@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  MERN Stack | System-Oriented Thinking
+  <b>Java Full Stack Developer | System-Oriented Thinking</b>
 </p>
+
 
 ---
 
