@@ -1,25 +1,19 @@
-<!-- 🌊 Elegant Header -->
+<!-- 🌊 Premium Header -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=210&section=header&text=Gauri%20Satish%20Thokal&fontSize=40&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descAlignY=60"/>
 
-<!-- ✨ Typing Intro -->
+<!-- ✨ Typing -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=0F172A&center=true&vCenter=true&width=760&lines=Building+Scalable+Java+Applications;MVC+Architecture+Developer;Backend+Focused+Engineer;Creating+Real+World+Projects;Open+to+Software+Developer+Roles" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Gauri7517&label=Profile%20Views&color=0f172a&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=0F172A&center=true&vCenter=true&width=760&lines=Building+Real+World+Java+Applications;MVC+Architecture+Developer;Backend+Focused+Engineer;Turning+Ideas+Into+Software" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About
 
-Java Full Stack Developer passionate about building real-world applications with clean architecture and strong backend logic.
-Focused on **Java, Servlets, JSP, Spring Boot, Hibernate, and MySQL** to design scalable and maintainable systems.
-
-I enjoy transforming ideas into working software, improving performance, and crafting user-friendly interfaces.
+Java Full Stack Developer building real-world applications with strong backend architecture and clean UI.
+Focused on scalable systems, authentication workflows, and database-driven software.
 
 ---
 
@@ -29,24 +23,15 @@ I enjoy transforming ideas into working software, improving performance, and cra
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,bootstrap,tailwind,mysql,git,github,vscode,eclipse" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/OOP-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SDLC-0f172a?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Authentication-0f172a?style=for-the-badge"/>
-</p>
-
 ---
 
-## 🚀 Projects Spotlight
+## 🚀 Projects
 
-### 💇 GoldenGlow — Salon Booking & Management System
-
-Complete appointment and management platform with authentication, admin dashboard, and booking workflow built using MVC architecture.
+### 💇 GoldenGlow — Salon Management Platform
 
 <p>
 <a href="https://github.com/Gauri7517/Salon_System_Project">
-<img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Code-0f172a?style=for-the-badge"/>
 </a>
 </p>
 
@@ -54,22 +39,45 @@ Complete appointment and management platform with authentication, admin dashboar
 
 ### 🎬 Stream Mora — Streaming Platform
 
-Interactive streaming experience with rating prioritization, viewer analytics, and responsive UI.
-
 <p>
 <a href="https://github.com/Gauri7517/-Streamora">
-<img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Code-0f172a?style=for-the-badge"/>
+</a>
+
+<a href="https://sanikaapawar.github.io/-Streamora/index.html">
+<img src="https://img.shields.io/badge/Live%20Demo-2563eb?style=for-the-badge"/>
 </a>
 </p>
 
 ---
 
-## 🌱 Currently Exploring
+## 📊 GitHub Activity
 
-* Advanced Spring Boot patterns
-* Backend performance optimization
-* System design fundamentals
-* AI-assisted development workflows
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gauri7517&show_icons=true&theme=github_dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Gauri7517&theme=github-dark"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauri7517&theme=github-dark"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* Spring Boot advanced patterns
+* Backend performance tuning
+* System design
+* AI assisted development
 
 ---
 
@@ -83,23 +91,10 @@ Interactive streaming experience with rating prioritization, viewer analytics, a
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gauri7517&show_icons=true&theme=github_dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauri7517&layout=compact&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
 ## 💬 Philosophy
 
-✨ Build real things. Stay consistent. Keep improving.
+✨ Build real things. Stay consistent. Keep growing.
 
-<!-- 🌊 Footer -->
+<!-- Footer -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=130&section=footer"/>
