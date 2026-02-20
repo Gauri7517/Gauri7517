@@ -1,4 +1,4 @@
-<!-- Premium Banner -->
+<!-- Premium Developer Banner -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Gauri%20Satish%20Thokal&fontSize=38&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descAlignY=60"/>
 
@@ -14,11 +14,10 @@
 
 ---
 
-## 👩‍💻 Who Am I
+## 👩‍💻 About Me
 
-Java Full Stack Developer with strong fundamentals in *Java, Servlets, JSP, Spring Boot, Hibernate, and MySQL*.
-Experienced in building real-world applications with *MVC architecture, authentication, and database-driven workflows*.
-Focused on writing clean code, improving performance, and developing scalable backend systems.
+Java Full Stack Developer focused on building real-world applications using **Java, Servlets, JSP, Spring Boot, Hibernate, and MySQL**.
+Strong interest in **clean architecture, backend performance, authentication systems, and scalable software design**.
 
 ---
 
@@ -47,6 +46,8 @@ Focused on writing clean code, improving performance, and developing scalable ba
 ✔ Service and booking management
 ✔ Performance optimization
 
+[![View Project](https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge)](https://github.com/Gauri7517/YOUR_GOLDENGLOW_REPO)
+
 ---
 
 ### 🎬 Stream Mora — Streaming Platform
@@ -55,19 +56,16 @@ Focused on writing clean code, improving performance, and developing scalable ba
 ✔ Viewer analytics
 ✔ Interactive responsive UI
 
----
-
-## 🎓 Education
-
-*BCA — Savitribai Phule Pune University*
-CGPA: *8.54*
+[![View Project](https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge)](https://github.com/Gauri7517/YOUR_STREAMMORA_REPO)
 
 ---
 
-## 💼 Training
+## 🌱 Currently Exploring
 
-*Java Full Stack Development — Fortune Cloud Technology (Pursuing)*
-Hands-on real-world development workflow, debugging, and version control.
+* Advanced Spring Boot patterns
+* Backend optimization
+* System design fundamentals
+* AI assisted development workflows
 
 ---
 
@@ -88,10 +86,6 @@ Hands-on real-world development workflow, debugging, and version control.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauri7517&layout=compact&theme=github_dark"/>
 </p>
 
----
-
-## 🐍 Contribution Activity
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
@@ -100,7 +94,7 @@ Hands-on real-world development workflow, debugging, and version control.
 
 ## 💬 Philosophy
 
-✨ Consistency beats talent. Build every day.
+✨ Build real projects. Stay consistent. Grow every day.
 
 <!-- Footer -->
 
