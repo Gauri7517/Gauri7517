@@ -1,11 +1,11 @@
-<!-- Premium Developer Banner -->
+<!-- 🌊 Elegant Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=Gauri%20Satish%20Thokal&fontSize=38&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=210&section=header&text=Gauri%20Satish%20Thokal&fontSize=40&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descAlignY=60"/>
 
-<!-- Typing Animation -->
+<!-- ✨ Typing Intro -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2800&color=0F172A&center=true&vCenter=true&width=700&lines=Building+Scalable+Java+Applications;MVC+Architecture+Developer;Salon+Management+System+Creator;Open+to+Software+Developer+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2800&color=0F172A&center=true&vCenter=true&width=760&lines=Building+Scalable+Java+Applications;MVC+Architecture+Developer;Backend+Focused+Engineer;Creating+Real+World+Projects;Open+to+Software+Developer+Roles" />
 </p>
 
 <p align="center">
@@ -16,12 +16,14 @@
 
 ## 👩‍💻 About Me
 
-Java Full Stack Developer focused on building real-world applications using **Java, Servlets, JSP, Spring Boot, Hibernate, and MySQL**.
-Strong interest in **clean architecture, backend performance, authentication systems, and scalable software design**.
+Java Full Stack Developer passionate about building real-world applications with clean architecture and strong backend logic.
+Focused on **Java, Servlets, JSP, Spring Boot, Hibernate, and MySQL** to design scalable and maintainable systems.
+
+I enjoy transforming ideas into working software, improving performance, and crafting user-friendly interfaces.
 
 ---
 
-## 🧠 Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,bootstrap,tailwind,mysql,git,github,vscode,eclipse" />
@@ -36,36 +38,38 @@ Strong interest in **clean architecture, backend performance, authentication sys
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects Spotlight
 
 ### 💇 GoldenGlow — Salon Booking & Management System
 
-✔ Appointment booking & admin dashboard
-✔ MVC architecture using Servlets & JSP
-✔ Authentication & session handling
-✔ Service and booking management
-✔ Performance optimization
+Complete appointment and management platform with authentication, admin dashboard, and booking workflow built using MVC architecture.
 
-[![View Project](https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge)](https://github.com/Gauri7517/YOUR_GOLDENGLOW_REPO)
+<p>
+<a href="https://github.com/Gauri7517/Salon_System_Project">
+<img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
 ### 🎬 Stream Mora — Streaming Platform
 
-✔ Rating-based prioritization
-✔ Viewer analytics
-✔ Interactive responsive UI
+Interactive streaming experience with rating prioritization, viewer analytics, and responsive UI.
 
-[![View Project](https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge)](https://github.com/Gauri7517/YOUR_STREAMMORA_REPO)
+<p>
+<a href="https://github.com/Gauri7517/-Streamora">
+<img src="https://img.shields.io/badge/View%20Project-0f172a?style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
 ## 🌱 Currently Exploring
 
 * Advanced Spring Boot patterns
-* Backend optimization
+* Backend performance optimization
 * System design fundamentals
-* AI assisted development workflows
+* AI-assisted development workflows
 
 ---
 
@@ -79,7 +83,7 @@ Strong interest in **clean architecture, backend performance, authentication sys
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Gauri7517&show_icons=true&theme=github_dark"/>
@@ -94,8 +98,8 @@ Strong interest in **clean architecture, backend performance, authentication sys
 
 ## 💬 Philosophy
 
-✨ Build real projects. Stay consistent. Grow every day.
+✨ Build real things. Stay consistent. Keep improving.
 
-<!-- Footer -->
+<!-- 🌊 Footer -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=130&section=footer"/>
