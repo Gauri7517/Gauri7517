@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=260&section=header&text=Gauri%20Satish%20Thokal&fontSize=44&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%"/>
 </p>
 
-<!-- 🎬 Animated Cyber Background (Video Style GIF) -->
+<!-- 🎬 Cyber Coding GIF (Video Feel) -->
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
@@ -45,11 +45,9 @@ I enjoy designing scalable systems and improving performance while keeping user 
 
 ---
 
-## 🚀 Projects
+## 🚀 Major Projects
 
 ### 💇 GoldenGlow — Salon Management Platform
-
-Complete appointment & admin workflow system built using Java MVC architecture.
 
 <p>
 <a href="https://github.com/Gauri7517/Salon_System_Project">
@@ -60,8 +58,6 @@ Complete appointment & admin workflow system built using Java MVC architecture.
 ---
 
 ### 🎬 Stream Mora — Streaming Platform
-
-Interactive streaming interface with rating prioritization and viewer analytics.
 
 <p>
 <a href="https://github.com/Gauri7517/-Streamora">
@@ -76,10 +72,18 @@ Interactive streaming interface with rating prioritization and viewer analytics.
 
 ## ⭐ Mini Projects
 
-### 😊 Facial Expression Detector
+### 😊 Facial Expression Analyzer
 
 <p>
-<a href="https://github.com/Gauri7517/Facial_Expression">
+<a href="https://github.com/Gauri7517/Facial_Expression_Analyzer">
+<img src="https://img.shields.io/badge/View%20Mini%20Project-6366f1?style=for-the-badge"/>
+</a>
+</p>
+
+### ☕ Java Desktop Project
+
+<p>
+<a href="https://github.com/Gauri7517/Java_Project">
 <img src="https://img.shields.io/badge/View%20Mini%20Project-6366f1?style=for-the-badge"/>
 </a>
 </p>
@@ -99,10 +103,10 @@ Interactive streaming interface with rating prioritization and viewer analytics.
 
 ---
 
-## 🐍 Contribution Snake
+## ✨ Contribution Animation (Better than snake)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gauri7517&theme=github_dark"/>
 </p>
 
 ---
@@ -121,4 +125,15 @@ Interactive streaming interface with rating prioritization and viewer analytics.
 <p align="center">
 <a href="https://www.linkedin.com/in/gauri-thokal-a85417318/"><img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:gaurithokal2004@gmail.com"><img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail"/></a>
-<a href="https://github.com/Gauri7517
+<a href="https://github.com/Gauri7517"><img src="https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+## 💬 Philosophy
+
+✨ Build meaningful software. Stay consistent. Improve daily.
+
+<!-- Footer -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=140&section=footer"/>
