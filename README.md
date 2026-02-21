@@ -1,19 +1,19 @@
-<!-- 🌌 Animated Dark Banner -->
+<!-- 🌌 Premium Animated Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=260&section=header&text=Gauri%20Satish%20Thokal&fontSize=44&fontAlignY=40&desc=Java%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=270&section=header&text=Gauri%20Satish%20Thokal&fontSize=46&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20•%20Backend%20Engineer&descAlignY=60&animation=fadeIn"/>
 </p>
 
-<!-- 🎬 Animated Cyber Background (Video Style GIF) -->
+<!-- 🎬 Cyber Developer GIF -->
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 </p>
 
-<!-- ✨ Typing Animation -->
+<!-- ✨ Typing -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2600&color=38BDF8&center=true&vCenter=true&width=780&lines=Designing+Scalable+Systems;MVC+Architecture+Engineer;Building+Real+World+Applications;Backend+Focused+Developer;Turning+Ideas+Into+Software" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2600&color=38BDF8&center=true&vCenter=true&width=850&lines=Designing+Scalable+Systems;Java+Backend+Specialist;Building+Real+World+Applications;MVC+Architecture+Engineer;Turning+Ideas+Into+Software" />
 </p>
 
 <p align="center">
@@ -22,18 +22,18 @@
 
 ---
 
-## 👩‍💻 About
+## 👩‍💻 About Me
 
-Java Full Stack Developer focused on crafting real-world applications with strong backend architecture, authentication workflows, and clean UI experiences.
+Passionate **Java Full Stack Developer** focused on building real-world applications with clean architecture, authentication workflows, and scalable backend systems.
 
-I enjoy designing scalable systems and improving performance while keeping user experience simple and elegant.
+I enjoy transforming complex ideas into simple, elegant software experiences.
 
 ---
 
-## ⚙️ Tech Universe
+## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,bootstrap,tailwind,mysql,git,github,vscode,eclipse&perline=6" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,bootstrap,tailwind,mysql,git,github,vscode,eclipse&perline=6"/>
 </p>
 
 <p align="center">
@@ -45,32 +45,28 @@ I enjoy designing scalable systems and improving performance while keeping user 
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 💇 GoldenGlow — Salon Management Platform
 
-Complete appointment & admin workflow system built using Java MVC architecture.
+End-to-end appointment & admin workflow built using Java MVC.
 
-<p>
 <a href="https://github.com/Gauri7517/Salon_System_Project">
-<img src="https://img.shields.io/badge/View%20Code-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Project-0ea5e9?style=for-the-badge"/>
 </a>
-</p>
 
 ---
 
-### 🎬 Stream Mora — Streaming Platform
+### 🎬 Streamora — Streaming Platform
 
-Interactive streaming interface with rating prioritization and viewer analytics.
+Interactive UI with rating prioritization & analytics.
 
-<p>
 <a href="https://github.com/Gauri7517/-Streamora">
 <img src="https://img.shields.io/badge/View%20Code-0ea5e9?style=for-the-badge"/>
 </a>
 <a href="https://sanikaapawar.github.io/-Streamora/index.html">
 <img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge"/>
 </a>
-</p>
 
 ---
 
@@ -78,50 +74,58 @@ Interactive streaming interface with rating prioritization and viewer analytics.
 
 ### 😊 Facial Expression Analyzer
 
-<p>
 <a href="https://github.com/Gauri7517/Facial_Expression_Analyzer">
-<img src="https://img.shields.io/badge/View%20Mini%20Project-6366f1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Project-6366f1?style=for-the-badge"/>
 </a>
-</p>
 
-### ⌨️ Typing Test (Java Desktop)
+### ⌨️ Java Typing Test
 
-<p>
 <a href="https://github.com/Gauri7517/Java_Project">
-<img src="https://img.shields.io/badge/View%20Mini%20Project-6366f1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Project-6366f1?style=for-the-badge"/>
 </a>
-</p>
-
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Gauri7517&show_icons=true&theme=github_dark"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Gauri7517&theme=github-dark&border_radius=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Gauri7517&theme=github-dark"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauri7517&theme=github-dark&radius=12"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauri7517&theme=github-dark"/>
 </p>
 
 ---
 
+## 🐍 Contribution Snake
 
-
-## 🌱 Currently Exploring
-
-* Advanced Spring Boot patterns
-* Backend performance optimization
-* System design fundamentals
-* AI-assisted development
+<p align="center">
+<img src="https://raw.githubusercontent.com/Gauri7517/Gauri7517/output/snake.svg"/>
+</p>
 
 ---
 
-## 🌐 Connect
+## 🌱 Currently Learning
+
+• Advanced Spring Boot patterns
+• Backend performance optimization
+• System design fundamentals
+• AI assisted development
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gauri-thokal-a85417318/"><img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:gaurithokal2004@gmail.com"><img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail"/></a>
-<a href="https://github.com/Gauri7517
+<a href="https://github.com/Gauri7517"><img src="https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logo=github"/></a>
+</p>
+
+---
+
+✨ Build meaningful software. Stay consistent. Improve daily.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=140&section=footer"/>
