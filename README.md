@@ -107,7 +107,7 @@ Full appointment & admin workflow built using Java MVC.
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Gauri7517/Gauri7517/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/Gauri7517/Gauri7517/output/snake.svg?sanitize=true"/>
 </p>
 
 ---
