@@ -1,7 +1,7 @@
 <!-- 🌌 PREMIUM HERO HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=250&section=header&text=Gauri%20Satish%20Thokal&fontSize=48&fontAlignY=40&fontColor=38bdf8&desc=Java%20Full%20Stack%20Developer%20•%20Backend%20Engineer&descAlignY=62&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=250&section=header&text=Gauri%20Satish%20Thokal&fontSize=48&fontAlignY=40&fontColor=38bdf8&descAlignY=62&animation=fadeIn"/>
 </p>
 
 <!-- 💎 Glass Intro Card -->
