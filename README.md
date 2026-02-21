@@ -76,13 +76,22 @@ Interactive streaming interface with rating prioritization and viewer analytics.
 
 ## ⭐ Mini Projects
 
-### 😊 Facial Expression Detector
+### 😊 Facial Expression Analyzer
 
 <p>
-<a href="https://github.com/Gauri7517/Facial_Expression">
+<a href="https://github.com/Gauri7517/Facial_Expression_Analyzer">
 <img src="https://img.shields.io/badge/View%20Mini%20Project-6366f1?style=for-the-badge"/>
 </a>
 </p>
+
+### ⌨️ Typing Test (Java Desktop)
+
+<p>
+<a href="https://github.com/Gauri7517/Java_Project">
+<img src="https://img.shields.io/badge/View%20Mini%20Project-6366f1?style=for-the-badge"/>
+</a>
+</p>
+
 
 ---
 
@@ -102,7 +111,7 @@ Interactive streaming interface with rating prioritization and viewer analytics.
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Gauri7517/Gauri7517/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
