@@ -112,10 +112,10 @@ CGPA: *8.58*
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Gauri7517/Gauri7517/output/snake.svg?sanitize=true"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
