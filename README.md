@@ -48,7 +48,14 @@ Java Full Stack Developer focused on crafting real-world applications with stron
 </p>
 
 ---
+---
 
+## 🎓 Education
+
+*BCA — Savitribai Phule Pune University*
+CGPA: *8.54*
+
+---
 ## 🚀 Projects
 
 ### 💇 GoldenGlow — Salon Management Platform
