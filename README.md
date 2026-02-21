@@ -33,6 +33,12 @@
 Java Full Stack Developer focused on crafting real-world applications with strong backend architecture, authentication workflows, and clean UI experiences.
 
 ---
+## 🎓 Education
+
+*BCA — Savitribai Phule Pune University*
+CGPA: *8.58*
+
+---
 
 ## ⚙️ Tech Universe
 
@@ -46,14 +52,6 @@ Java Full Stack Developer focused on crafting real-world applications with stron
 <img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Authentication-111827?style=for-the-badge"/>
 </p>
-
----
----
-
-## 🎓 Education
-
-*BCA — Savitribai Phule Pune University*
-CGPA: *8.54*
 
 ---
 ## 🚀 Projects
