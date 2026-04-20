@@ -47,13 +47,6 @@ CGPA: *8.58*
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,bootstrap,tailwind,mysql,git,github,vscode,eclipse&perline=6"/>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/OOP-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Design-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Authentication-111827?style=for-the-badge"/>
-</p>
-
 ---
 
 ## 🚀 Projects
@@ -78,7 +71,8 @@ CGPA: *8.58*
 - 📸 Automatically captures and saves alert images when drowsiness is detected  
 
 ### 📸 Output Preview
-![Alert Output](alert_123.png)
+
+![Alert Output](alert_1776609061045.png)
 
 ---
 
@@ -125,36 +119,6 @@ CGPA: *8.58*
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gauri7517&show_icons=true&theme=github_dark"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Gauri7517&theme=github-dark"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gauri7517&theme=github-dark"/>
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-• Advanced Spring Boot  
-• Backend performance  
-• System design  
-• AI-assisted development  
-
----
-
 ## 🌐 Connect
 
 <p align="center">
@@ -166,5 +130,3 @@ CGPA: *8.58*
 ---
 
 ✨ Build meaningful software. Stay consistent. Improve daily.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=120&section=footer"/>
