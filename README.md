@@ -33,9 +33,10 @@
 Java Full Stack Developer focused on crafting real-world applications with strong backend architecture, authentication workflows, and clean UI experiences.
 
 ---
+
 ## 🎓 Education
 
-*BCA — Savitribai Phule Pune University*
+*BCA — Savitribai Phule Pune University*  
 CGPA: *8.58*
 
 ---
@@ -54,7 +55,32 @@ CGPA: *8.58*
 </p>
 
 ---
+
 ## 🚀 Projects
+
+### 🚗 Driver Alertness Monitoring System
+
+<p>
+<a href="https://github.com/Gauri7517/DriverAlertness">
+<img src="https://img.shields.io/badge/View%20Code-38bdf8?style=for-the-badge"/>
+</a>
+</p>
+
+### 🎥 Demo Video  
+👉 https://www.linkedin.com/feed/update/urn:li:activity:7451651744532676608/
+
+### 💡 Features
+- Real-time face detection  
+- Eye tracking  
+- Drowsiness detection  
+- Audio + visual alert  
+- Alert counter and timer  
+- 📸 Automatically captures and saves alert images when drowsiness is detected  
+
+### 📸 Output Preview
+![Alert Output](alert_123.png)
+
+---
 
 ### 💇 GoldenGlow — Salon Management Platform
 
@@ -122,10 +148,10 @@ CGPA: *8.58*
 
 ## 🌱 Currently Exploring
 
-• Advanced Spring Boot
-• Backend performance
-• System design
-• AI-assisted development
+• Advanced Spring Boot  
+• Backend performance  
+• System design  
+• AI-assisted development  
 
 ---
 
