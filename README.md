@@ -4,13 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=250&section=header&text=Gauri%20Satish%20Thokal&fontSize=48&fontAlignY=40&fontColor=38bdf8&desc=Java%20Full%20Stack%20Developer&descAlignY=62&animation=fadeIn"/>
 </p>
 
-<!-- 💎 Glass Intro Card -->
+<!-- 💎 Intro Card -->
 
 <p align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=github&fill=020617&textfill=38bdf8&animation=fadeIn&desc=Building%20Real%20World%20Software&descfill=94a3b8"/>
 </p>
 
-<!-- 🎬 Cyber Background -->
+<!-- 🎬 Background -->
 
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
@@ -30,18 +30,18 @@
 
 ## 👩‍💻 About
 
-Java Full Stack Developer focused on crafting real-world applications with strong backend architecture, authentication workflows, and clean UI experiences.
+Java Full Stack Developer focused on building real-world applications with strong backend logic, authentication systems, and clean UI.
 
 ---
 
 ## 🎓 Education
 
-*BCA — Savitribai Phule Pune University*  
-CGPA: *8.58*
+BCA — Savitribai Phule Pune University  
+CGPA: 8.58
 
 ---
 
-## ⚙️ Tech Universe
+## ⚙️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,html,css,js,bootstrap,tailwind,mysql,git,github,vscode,eclipse&perline=6"/>
@@ -61,58 +61,12 @@ CGPA: *8.58*
 </a>
 </p>
 
-✨ Now with improved accuracy and smoother real-time detection 🚀  
-🚨 Detects drowsiness in real-time to prevent accidents and save lives  
+🚨 Real-time drowsiness detection using AI & Computer Vision  
 
----
+🎥 Demo:  
+https://www.linkedin.com/feed/update/urn:li:activity:7451651744532676608/
 
-## 🎥 Demo Video  
-🔗 **Watch Demo:**  
-👉 https://www.linkedin.com/feed/update/urn:li:activity:7451651744532676608/
-
----
-
-## 💡 Features
-- Real-time face detection  
-- Eye tracking  
-- Drowsiness detection  
-- Audio + visual alert  
-- Alert counter and timer  
-- 📸 Automatically captures and saves alert images when drowsiness is detected  
-
----
-
-## 🎯 Problem
-Driver drowsiness is one of the major causes of road accidents.
-
-## 💡 Solution
-This system uses AI (OpenCV + Deep Learning) to detect eye closure in real-time and alert the driver instantly.
-
----
-
-## ⚙️ How It Works
-1. Captures live video using webcam  
-2. Detects face and eyes using OpenCV  
-3. Analyzes eye state  
-4. Triggers alert when drowsiness is detected  
-
----
-
-## 📈 Results
-- Real-time detection with minimal delay  
-- Improved accuracy and smooth performance  
-
----
-
-💼 Built as a real-world solution to enhance road safety using AI  
-
----
-
-## 📸 Output Preview
-
-<p align="center">
-<img src="https://github.com/Gauri7517/DriverAlertness/blob/main/driverdrowsiness/alert_1776609061045.png?raw=true" width="500"/>
-</p>
+📄 Detailed explanation available in project README  
 
 ---
 
@@ -124,56 +78,12 @@ This system uses AI (OpenCV + Deep Learning) to detect eye closure in real-time 
 </a>
 </p>
 
-✨ Real-time emotion detection using AI and Computer Vision 🎯  
-🚨 Detects human emotions live using webcam and deep learning  
+🎯 Real-time emotion detection using AI & Computer Vision  
 
----
+🎥 Demo:  
+https://www.linkedin.com/feed/update/urn:li:activity:7414368829016883201/
 
-## 🎥 Demo Video  
-🔗 **Watch Demo:**  
-👉 https://www.linkedin.com/feed/update/urn:li:activity:7414368829016883201/
-
----
-
-## 💡 Features
-- Real-time face detection  
-- Emotion prediction (happy, sad, etc.)  
-- Live webcam integration  
-- Fast and responsive processing  
-
----
-
-## 🎯 Problem
-Understanding human emotions through machines is challenging but important for applications like safety, healthcare, and user experience.
-
-## 💡 Solution
-This project uses OpenCV and a trained deep learning model (Keras) to detect faces and predict facial expressions in real time.
-
----
-
-## ⚙️ Tech Stack
-- Python  
-- OpenCV  
-- Keras  
-- CNN (Deep Learning)  
-
----
-
-## ⚙️ How It Works
-1. Captures live video using webcam  
-2. Detects face using OpenCV  
-3. Extracts facial features  
-4. Predicts emotion using trained model  
-
----
-
-## 📈 Results
-- Real-time emotion detection  
-- Smooth and responsive performance  
-
----
-
-💼 Built to explore real-time computer vision and emotion analysis systems  
+📄 Detailed explanation available in project README  
 
 ---
 
@@ -188,6 +98,8 @@ This project uses OpenCV and a trained deep learning model (Keras) to detect fac
 </a>
 </p>
 
+🎯 A responsive streaming platform with modern UI  
+
 ---
 
 ### ⌨️ Typing Test (Java Desktop)
@@ -197,6 +109,8 @@ This project uses OpenCV and a trained deep learning model (Keras) to detect fac
 <img src="https://img.shields.io/badge/View%20Mini%20Project-6366f1?style=for-the-badge"/>
 </a>
 </p>
+
+🎯 Java-based typing speed tester  
 
 ---
 
