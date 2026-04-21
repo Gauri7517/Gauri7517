@@ -59,6 +59,16 @@ CGPA: *8.58*
 </a>
 </p>
 
+### 🚗 Driver Alertness Monitoring System
+
+<p>
+<a href="https://github.com/Gauri7517/DriverAlertness">
+<img src="https://img.shields.io/badge/View%20Code-38bdf8?style=for-the-badge"/>
+</a>
+</p>
+
+✨ Now with improved accuracy and smoother real-time detection 🚀
+
 ### 🎥 Demo Video  
 👉 https://www.linkedin.com/feed/update/urn:li:activity:7451651744532676608/
 
@@ -72,9 +82,9 @@ CGPA: *8.58*
 
 ### 📸 Output Preview
 
-![Alert Output](https://github.com/Gauri7517/DriverAlertness/blob/main/driverdrowsiness/alert_1776609061045.png?raw=true)
-
----
+<p align="center">
+<img src="https://github.com/Gauri7517/DriverAlertness/blob/main/driverdrowsiness/alert_1776609061045.png?raw=true" width="500"/>
+</p>
 
 ### 💇 GoldenGlow — Salon Management Platform
 
