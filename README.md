@@ -49,6 +49,10 @@ CGPA: *8.58*
 
 ---
 
+## 🚀 Projects
+
+---
+
 ### 🚗 Driver Alertness Monitoring System
 
 <p>
@@ -58,12 +62,12 @@ CGPA: *8.58*
 </p>
 
 ✨ Now with improved accuracy and smoother real-time detection 🚀  
-
 🚨 Detects drowsiness in real-time to prevent accidents and save lives  
 
 ---
 
 ## 🎥 Demo Video  
+🔗 **Watch Demo:**  
 👉 https://www.linkedin.com/feed/update/urn:li:activity:7451651744532676608/
 
 ---
@@ -110,6 +114,8 @@ This system uses AI (OpenCV + Deep Learning) to detect eye closure in real-time 
 <img src="https://github.com/Gauri7517/DriverAlertness/blob/main/driverdrowsiness/alert_1776609061045.png?raw=true" width="500"/>
 </p>
 
+---
+
 ### 😊 Facial Expression Analyzer
 
 <p>
@@ -119,13 +125,14 @@ This system uses AI (OpenCV + Deep Learning) to detect eye closure in real-time 
 </p>
 
 ✨ Real-time emotion detection using AI and Computer Vision 🎯  
-
 🚨 Detects human emotions live using webcam and deep learning  
 
 ---
 
 ## 🎥 Demo Video  
+🔗 **Watch Demo:**  
 👉 https://www.linkedin.com/feed/update/urn:li:activity:7414368829016883201/
+
 ---
 
 ## 💡 Features
@@ -167,6 +174,8 @@ This project uses OpenCV and a trained deep learning model (Keras) to detect fac
 ---
 
 💼 Built to explore real-time computer vision and emotion analysis systems  
+
+---
 
 ### 🎬 Stream Mora — Streaming Platform
 
