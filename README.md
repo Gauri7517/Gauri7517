@@ -72,7 +72,7 @@ CGPA: *8.58*
 
 ### 📸 Output Preview
 
-![Alert Output](alert_1776609061045.png)
+![Alert Output](https://github.com/Gauri7517/DriverAlertness/blob/main/driverdrowsiness/alert_1776609061045.png?raw=true)
 
 ---
 
