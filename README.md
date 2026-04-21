@@ -110,18 +110,6 @@ This system uses AI (OpenCV + Deep Learning) to detect eye closure in real-time 
 <img src="https://github.com/Gauri7517/DriverAlertness/blob/main/driverdrowsiness/alert_1776609061045.png?raw=true" width="500"/>
 </p>
 
-### 🎬 Stream Mora — Streaming Platform
-
-<p>
-<a href="https://github.com/Gauri7517/-Streamora">
-<img src="https://img.shields.io/badge/View%20Code-38bdf8?style=for-the-badge"/>
-</a>
-<a href="https://sanikaapawar.github.io/-Streamora/index.html">
-<img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge"/>
-</a>
-</p>
-
----
 ### 😊 Facial Expression Analyzer
 
 <p>
@@ -132,13 +120,12 @@ This system uses AI (OpenCV + Deep Learning) to detect eye closure in real-time 
 
 ✨ Real-time emotion detection using AI and Computer Vision 🎯  
 
+🚨 Detects human emotions live using webcam and deep learning  
+
 ---
 
-## 🎯 Problem
-Understanding human emotions through machines is challenging but important for applications like safety, healthcare, and user experience.
-
-## 💡 Solution
-This project uses OpenCV and a trained deep learning model (Keras) to detect faces and predict facial expressions in real time.
+## 🎥 Demo Video  
+👉 https://www.linkedin.com/feed/update/urn:li:activity:7451651744532676608/
 
 ---
 
@@ -147,6 +134,14 @@ This project uses OpenCV and a trained deep learning model (Keras) to detect fac
 - Emotion prediction (happy, sad, etc.)  
 - Live webcam integration  
 - Fast and responsive processing  
+
+---
+
+## 🎯 Problem
+Understanding human emotions through machines is challenging but important for applications like safety, healthcare, and user experience.
+
+## 💡 Solution
+This project uses OpenCV and a trained deep learning model (Keras) to detect faces and predict facial expressions in real time.
 
 ---
 
@@ -173,6 +168,19 @@ This project uses OpenCV and a trained deep learning model (Keras) to detect fac
 ---
 
 💼 Built to explore real-time computer vision and emotion analysis systems  
+
+### 🎬 Stream Mora — Streaming Platform
+
+<p>
+<a href="https://github.com/Gauri7517/-Streamora">
+<img src="https://img.shields.io/badge/View%20Code-38bdf8?style=for-the-badge"/>
+</a>
+<a href="https://sanikaapawar.github.io/-Streamora/index.html">
+<img src="https://img.shields.io/badge/Live%20Demo-22c55e?style=for-the-badge"/>
+</a>
+</p>
+
+---
 
 ### ⌨️ Typing Test (Java Desktop)
 
