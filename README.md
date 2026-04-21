@@ -122,16 +122,57 @@ This system uses AI (OpenCV + Deep Learning) to detect eye closure in real-time 
 </p>
 
 ---
-
-## ⭐ Mini Projects
-
 ### 😊 Facial Expression Analyzer
 
 <p>
 <a href="https://github.com/Gauri7517/Facial_Expression_Analyzer">
-<img src="https://img.shields.io/badge/View%20Mini%20Project-6366f1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/View%20Code-6366f1?style=for-the-badge"/>
 </a>
 </p>
+
+✨ Real-time emotion detection using AI and Computer Vision 🎯  
+
+---
+
+## 🎯 Problem
+Understanding human emotions through machines is challenging but important for applications like safety, healthcare, and user experience.
+
+## 💡 Solution
+This project uses OpenCV and a trained deep learning model (Keras) to detect faces and predict facial expressions in real time.
+
+---
+
+## 💡 Features
+- Real-time face detection  
+- Emotion prediction (happy, sad, etc.)  
+- Live webcam integration  
+- Fast and responsive processing  
+
+---
+
+## ⚙️ Tech Stack
+- Python  
+- OpenCV  
+- Keras  
+- CNN (Deep Learning)  
+
+---
+
+## ⚙️ How It Works
+1. Captures live video using webcam  
+2. Detects face using OpenCV  
+3. Extracts facial features  
+4. Predicts emotion using trained model  
+
+---
+
+## 📈 Results
+- Real-time emotion detection  
+- Smooth and responsive performance  
+
+---
+
+💼 Built to explore real-time computer vision and emotion analysis systems  
 
 ### ⌨️ Typing Test (Java Desktop)
 
