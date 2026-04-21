@@ -125,8 +125,7 @@ This system uses AI (OpenCV + Deep Learning) to detect eye closure in real-time 
 ---
 
 ## 🎥 Demo Video  
-👉 https://www.linkedin.com/feed/update/urn:li:activity:7451651744532676608/
-
+👉 https://www.linkedin.com/feed/update/urn:li:activity:7414368829016883201/
 ---
 
 ## 💡 Features
